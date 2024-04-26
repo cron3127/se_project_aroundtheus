@@ -27,6 +27,11 @@
   padding-top: 40px;
 }
 
+.profile__line {
+  border-bottom: 30px;
+  color: white;
+}
+
 .profile__info {
   display: grid;
   grid-template-areas: "title button" "description description";
@@ -160,5 +165,10 @@
   .profile__add-button {
     margin: 0;
     width: 100%;
+  }
+
+  .footer__copyright {
+    margin-left: 19px;
+    margin-top: 48px;
   }
 }
