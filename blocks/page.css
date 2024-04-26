@@ -44,6 +44,7 @@
   width: 24px;
   grid-area: button;
   margin-left: 18px;
+  border: 2px white;
 }
 
 .profile__add-button {
