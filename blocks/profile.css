@@ -29,7 +29,7 @@
 }
 
 .profile__edit-button {
-  background: transparent url(../images/\ button\ Vector.svg) center no-repeat;
+  background: transparent url(../images/\ button-Vector.svg) center no-repeat;
   height: 24px;
   width: 24px;
   grid-area: button;
