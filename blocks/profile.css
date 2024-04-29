@@ -29,7 +29,7 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .profile__edit-button {
