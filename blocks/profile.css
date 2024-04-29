@@ -24,12 +24,11 @@
   line-height: 48px;
   font-weight: 500;
   grid-area: title;
-  margin: 0 18px 7px 0;
-  padding: 0 0 7px 0;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  margin-bottom: 14px;
 }
 
 .profile__edit-button {
@@ -39,6 +38,7 @@
   grid-area: button;
   border: 1px solid white;
   align-self: center;
+  margin-left: 18px;
 }
 
 .profile__edit-button:hover {
