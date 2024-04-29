@@ -40,4 +40,8 @@ Images:
 
 - [Around the U.S logo](./images/around-Vector.svg)
 
-- [Profile edit button](./images/%20button-Vector.svg)
+- [Profile edit button](./images/button-Vector.svg)
+
+- [Profile add button](./images/plus-vector.svg)
+
+- [Card heart Vector](./images/heart-Vector.svg)
