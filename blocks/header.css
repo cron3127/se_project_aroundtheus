@@ -3,3 +3,16 @@
   border-bottom: 1px solid #545454;
   padding-bottom: 41px;
 }
+
+@media screen and (max-width: 620px) {
+  .header {
+    padding: 0 0 32px 27px;
+    box-sizing: border-box;
+  }
+
+  .header__logo {
+    width: 126px;
+    height: 24px;
+    padding-left: 0;
+  }
+}
