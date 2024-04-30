@@ -71,10 +71,12 @@
 @media screen and (max-width: 620px) {
   .profile {
     flex-direction: column;
+    display: grid;
   }
 
   .profile__info {
-    display: flex;
+    display: grid;
+    grid-column: 1 / span 2;
     flex-wrap: wrap;
     width: 100%;
     justify-content: center;
