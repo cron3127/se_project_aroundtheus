@@ -71,14 +71,11 @@
 @media screen and (max-width: 620px) {
   .profile {
     flex-direction: column;
-    display: grid;
   }
 
   .profile__info {
     display: grid;
-    grid-column: 1 / span 2;
-    flex-wrap: wrap;
-    width: 100%;
+    grid-template-columns: auto auto;
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -113,7 +110,6 @@
   }
 
   .profile__edit-button {
-    margin-top: 45px;
     width: 18px;
     height: 18px;
   }
