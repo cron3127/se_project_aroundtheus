@@ -8,6 +8,7 @@
   .header {
     padding: 0 0 32px 27px;
     box-sizing: border-box;
+    max-height: 56px;
   }
 
   .header__logo {
