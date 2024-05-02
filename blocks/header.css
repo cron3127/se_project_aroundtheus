@@ -17,3 +17,14 @@
     padding-left: 0;
   }
 }
+
+@media screen and (max-width: 820px) {
+  .header {
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  .profile {
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+}
