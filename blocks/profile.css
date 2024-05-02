@@ -43,7 +43,7 @@
   grid-area: button;
   border: 1px solid white;
   align-self: center;
-  margin-right: 165px;
+  margin-right: 10px;
 }
 
 .profile__edit-button:hover {
