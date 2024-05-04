@@ -94,7 +94,6 @@
     max-width: 282px;
     grid-template-columns: auto auto;
     justify-content: center;
-    align-items: center;
     margin: 0;
     gap: 14px 10px;
   }
