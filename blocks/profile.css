@@ -76,6 +76,13 @@
   cursor: pointer;
 }
 
+@media screen and (max-width: 890px) {
+  .profile {
+    padding-left: 19px;
+    padding-right: 19px;
+  }
+}
+
 @media screen and (max-width: 620px) {
   .profile {
     flex-direction: column;
@@ -122,11 +129,5 @@
     width: 18px;
     height: 18px;
     margin-right: 0;
-  }
-}
-@media screen and (max-width: 890px) {
-  .profile {
-    padding-left: 19px;
-    padding-right: 19px;
   }
 }
