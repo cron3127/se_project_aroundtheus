@@ -12,16 +12,16 @@
   padding: 0 19px;
 }
 
-.modal__opened {
-  display: flex;
-}
-
 .modal__container {
   position: relative;
   background-color: #fff;
   color: black;
   padding: 36px;
   border-radius: 10px;
+}
+
+.modal__opened {
+  display: flex;
 }
 
 .modal__close {
@@ -53,6 +53,9 @@
   border-radius: 2px;
   border-style: none;
   margin-top: 48px;
+}
+
+.form {
 }
 
 .form__input {
