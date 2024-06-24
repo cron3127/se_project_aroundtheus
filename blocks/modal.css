@@ -54,6 +54,7 @@
   border-style: none;
 }
 
-.modal__form {
+.form__input {
   border-style: none;
+  border-bottom: 1px solid #0000;
 }
