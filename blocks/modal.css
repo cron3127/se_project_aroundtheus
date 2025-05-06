@@ -14,6 +14,8 @@
 
 .modal__container {
   position: relative;
+  max-width: 430px;
+  box-sizing: border-box;
   background-color: #fff;
   color: black;
   padding: 36px;
