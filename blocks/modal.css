@@ -70,7 +70,7 @@
   opacity: 80%;
 }
 
-.form__input {
+.modal__input {
   border-style: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   padding: 13px 0;
@@ -80,6 +80,6 @@
   line-height: 100%;
 }
 
-.form__input:not(:first-child) {
+.modal__input:not(:first-child) {
   margin-top: 17px;
 }
