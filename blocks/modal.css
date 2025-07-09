@@ -40,11 +40,17 @@
   background-size: contain;
 }
 
+.modal__close:hover {
+  cursor: pointer;
+  opacity: 60%;
+}
+
 .modal__title {
   font-weight: 900;
   font-size: 24px;
   line-height: 29px;
   font-family: Inter, Arial, Helvetica, sans-serif;
+  margin: 0 0 40px;
 }
 
 .modal__button {
@@ -55,12 +61,25 @@
   border-radius: 2px;
   border-style: none;
   margin-top: 48px;
+  font-size: 18px;
+  line-height: 100%;
+}
+
+.modal__button:hover {
+  cursor: pointer;
+  opacity: 80%;
 }
 
 .form__input {
   border-style: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  padding: 13px;
+  padding: 13px 0;
   width: 100%;
   box-sizing: border-box;
+  font-size: 14px;
+  line-height: 100%;
+}
+
+.form__input:not(:first-child) {
+  margin-top: 17px;
 }
